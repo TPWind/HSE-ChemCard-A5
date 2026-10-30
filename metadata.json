@@ -1,0 +1,6 @@
+{
+  "name": "HSE ChemCard A5 - Trích Xuất Thẻ An Toàn Hóa Chất SDS/MSDS",
+  "description": "Hệ thống HSE AI tự động phân tích tài liệu An toàn Hóa chất (SDS/MSDS) và trích xuất thẻ an toàn hóa chất kho khổ A5 theo chuẩn GHS.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
